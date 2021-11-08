@@ -71,6 +71,12 @@ html, body {
     }
   }
 
+  .logo-wrapper {
+    display: flex;
+    justify-content: center;
+    padding: 10px 0;
+  }
+
   // This is the logo at the top of the ToC
   .logo {
     display: block;
